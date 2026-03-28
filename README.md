@@ -18,7 +18,7 @@ pip install webcrawlerpoc
 
 ## Local Testing
 ```bash
-hatch run webcrawler https://test.py
+hatch run webcrawler https://web-scraping.dev/
 ```
 
 ## License
